@@ -8,8 +8,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=klincode&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=klincode)  
-
 ![GitHub metrics](https://metrics.lecoq.io/klincode)  
 
 
